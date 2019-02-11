@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/users/zerualem/codes/sample1/src/main/scala/Simple1.scala:2:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/users/zerualem/codes/sample1/src/main/scala/Simple1.scala:7:17: not found: value SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m    val spark = SparkSession.builder.appName("Simple Application").getOrCreate()[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
